@@ -18,7 +18,7 @@ filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
 "filetype plugin on
 
-colorscheme wombat256
+colorscheme wombat256mod
 
 syntax on
 
